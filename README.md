@@ -1,4 +1,4 @@
 # Desktop-APP
 
- ![Screenshot](Desktop-APP/Images/Beer-Panel.JPG)
+ ![Screenshot](Beer-Panel.JPG)
       
