@@ -4,9 +4,9 @@
 <br>
 Desktop pos application created with Java 8, PGAdmin DB, Swing GUI, Jframe (no Servers needed).
 <br>
-Download the viewMyDesktopApplication.jar file to view this application.
+Download the viewMyDesktopApp.jar file to view this application.
 <br>
---------------------------# WIP-------------------------------------------------
+---------------------------------------------------------------# WIP-------------------------------------------------
 
 
 # Login Panel
