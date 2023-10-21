@@ -1,4 +1,4 @@
-# Desktop POS-APP
+# Desktop POS-APP for Windows 
 <br>
 <--
 <br>
